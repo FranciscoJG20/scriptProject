@@ -1,6 +1,7 @@
 
-#Title: Queuing up email from the command line
-##Easier access to email and great for time management 
+# Title: Queuing up email from the command line
+
+## Easier access to email and great for time management 
 
 
 List of commands used:
