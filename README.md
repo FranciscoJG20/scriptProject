@@ -10,7 +10,7 @@
 - chmod
 - echo
 - |
-- >
+- ">"
 - hostname 
 - bash
 
@@ -18,7 +18,7 @@
 
 1. Must install SSMTP package, which delivers email from a local computer to a configured mailhost (e.g. Gmail, Yahoo, etc.)
 
-##### Important note: SSMTP contains sendmail package, which you will actually use for email delivery
+      ##### Important note: SSMTP contains sendmail package, which you will actually use for email delivery
 
 2. Most Linux distributions have sendmail, to check if your computer has it run *sendmail*
 
